@@ -1,0 +1,12 @@
+{
+  "main.js": "/test-wc/static/js/main.b243bc22.chunk.js",
+  "main.js.map": "/test-wc/static/js/main.b243bc22.chunk.js.map",
+  "static/js/1.9a916715.chunk.js": "/test-wc/static/js/1.9a916715.chunk.js",
+  "static/js/1.9a916715.chunk.js.map": "/test-wc/static/js/1.9a916715.chunk.js.map",
+  "runtime~main.js": "/test-wc/static/js/runtime~main.51e3bed4.js",
+  "runtime~main.js.map": "/test-wc/static/js/runtime~main.51e3bed4.js.map",
+  "static/media/walletconnect-logo.png": "/test-wc/static/media/walletconnect-logo.e1cb8d21.png",
+  "index.html": "/test-wc/index.html",
+  "precache-manifest.4bbe62fb88c779b92e657bf60f74c89b.js": "/test-wc/precache-manifest.4bbe62fb88c779b92e657bf60f74c89b.js",
+  "service-worker.js": "/test-wc/service-worker.js"
+}
