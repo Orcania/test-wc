@@ -2,22 +2,6 @@ import { IChainData } from "../helpers/types";
 
 export const SUPPORTED_CHAINS: IChainData[] = [
   {
-    name: "Harmony Mainnet",
-    short_name: "one",
-    chain: "Harmony",
-    network: "mainnet",
-    chain_id: 1666600000,
-    network_id: 1,
-    rpc_url: "https://api.s0.t.hmny.io",
-    native_currency: {
-      symbol: "ONE",
-      name: "ONE",
-      decimals: "18",
-      contractAddress: "",
-      balance: "",
-    },
-  },
-{
     name: "Boba Rinkeby",
     short_name: "eth",
     chain: "Boba",
@@ -33,22 +17,6 @@ export const SUPPORTED_CHAINS: IChainData[] = [
       balance: "",
     },
   },
-  {
-    name: "Harmony Testnet",
-    short_name: "one",
-    chain: "Harmony",
-    network: "testnet",
-    chain_id: 1666700000,
-    network_id: 1,
-    rpc_url: "https://api.s0.b.hmny.io",
-    native_currency: {
-      symbol: "ONE",
-      name: "Harmony",
-      decimals: "18",
-      contractAddress: "",
-      balance: "",
-    },
-  },  
   {
     name: "Ethereum Mainnet",
     short_name: "eth",

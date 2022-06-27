@@ -9,7 +9,7 @@
     "crypto"
   ],
   "author": "WalletConnect, Inc. <walletconnect.com>",
-  "homepage": "https://Loque18.github.io/test-wc/",
+  "homepage": "https://orcania.github.io/test-wc/",
   "license": "MIT",
   "scripts": {
     "start": "react-scripts-ts start",
