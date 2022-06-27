@@ -17,6 +17,22 @@ export const SUPPORTED_CHAINS: IChainData[] = [
       balance: "",
     },
   },
+{
+    name: "Boba Rinkeby",
+    short_name: "eth",
+    chain: "Boba",
+    network: "testnet",
+    chain_id: 28,
+    network_id: 28,
+    rpc_url: "https://rinkeby.boba.network/",
+    native_currency: {
+      symbol: "ETH",
+      name: "Ethereum",
+      decimals: "18",
+      contractAddress: "",
+      balance: "",
+    },
+  },
   {
     name: "Harmony Testnet",
     short_name: "one",
