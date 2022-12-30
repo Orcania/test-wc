@@ -2,6 +2,22 @@ import { IChainData } from "../helpers/types";
 
 export const SUPPORTED_CHAINS: IChainData[] = [
   {
+    name: "BSC Testnet",
+    short_name: "bsct",
+    chain: "BSC",
+    network: "testnet",
+    chain_id: 97,
+    network_id: 97,
+    rpc_url: "https://data-seed-prebsc-1-s1.binance.org:8545/",
+    native_currency: {
+      symbol: "BNB",
+      name: "bnb",
+      decimals: "18",
+      contractAddress: "",
+      balance: "",
+    },
+  },
+  {
     name: "Boba Rinkeby",
     short_name: "eth",
     chain: "Boba",
